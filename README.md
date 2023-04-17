@@ -1,4 +1,5 @@
-# shittyRECON
+# I,M COOKING IT....
+## shittyRECON
 
 shittyRECON is a Python-based bug bounty reconnaissance automation tool that helps you automate various aspects of your recon process, including subdomain enumeration, directory enumeration, port scanning, vulnerability scanning, JavaScript analysis, link discovery, URL enumeration, archived URL retrieval, DNS enumeration, fuzzing, XSS hunting, SQL injection testing, XXE injection testing, SSRF vulnerability detection, Git repository enumeration, Git secrets scanning, race condition testing, CORS testing, screenshot capture, and parameter enumeration.
 
