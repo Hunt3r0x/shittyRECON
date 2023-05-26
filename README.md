@@ -9,7 +9,7 @@ To install shittyRECON, you need to have Python 3.x installed on your system. Yo
 
 Once you have Python installed, you can clone the shittyRECON repository from GitHub:
 
-git clone https://github.com/Hunt3rox/shittyRECON.git
+git clone https://github.com/Hunt3r0x/shittyRECON.git
 
 
 After cloning the repository, you can install the required Python packages by running the following command in the shittyRECON directory:
